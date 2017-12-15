@@ -1,0 +1,15 @@
+some text 
+image 
+music 
+video
+HYPERTEXT
+anchor (a)
+
+heading: Some text		<h1> some tet </h1>
+
+paragaraph : some other text 	<p> some other text </p>
+image 							<img> or <img  		<img src=" "  alt>  or <img src=" " >
+music		
+video
+anchor							<a>		<a href=" url "> trees </a>
+										

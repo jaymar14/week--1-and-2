@@ -1,0 +1,25 @@
+h1{
+	font-family: 'Indie Flower', cursive;
+}
+
+.class1 {
+	font-family: 'Zilla Slab', serif;
+	font-size: 14px;
+	font-weight: 100;
+	line-height: 20px;
+	color: blue;
+}
+.class2{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 24px;
+	font-weight: 30;
+	line-height: 28px;
+	color: red;
+}
+.class3{
+	font-family: 'Lemonada', cursive;
+	font-size: 48px;
+	font-weight: 20;
+	line-height: 50px;
+	color: green;
+}
