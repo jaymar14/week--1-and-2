@@ -1,0 +1,39 @@
+* {
+box-sizing:border-box;
+}
+
+body{
+	background-color: #ccc;
+	font-size: 18px;
+	line-height: 27px;
+}
+.wrapper{
+	width: 1024px;
+	margin: 40px auto;
+}
+
+#main-content,
+#sidebar{
+	width: 500px;
+	padding: 30px;
+}
+#main-content{
+	float: left;
+	background: #fff;
+}
+#sidebar{
+	float: right;
+	background:#eee;
+}
+
+@media screen and (max-width: 768px) {
+  /* The body's bg color will be #333 */
+  body {
+    background-color: #333;
+  }
+
+  /* The wrapper's width will be 600px */
+  .wrapper {
+    width: 600px;
+  }
+}
